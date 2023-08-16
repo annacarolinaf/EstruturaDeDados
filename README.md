@@ -1,3 +1,3 @@
 # Estrutura De Dados
 
-Olá! Estou no segundo semestre de Ciência da Computação e aqui estão alguns códigos que faço com as estruturas de dados que estudo atualmente.
+Olá! Sou graduanda de Ciência da Computação na Universidade Federal de São Carlos (UFSCar) e aqui estão alguns códigos que fiz para trabalhos da faculdade com as estruturas de dados que estudamos.
